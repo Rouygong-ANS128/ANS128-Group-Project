@@ -1,0 +1,6 @@
+0 No Disease (0)
+1 (MR) moderately resistant 
+2 resistant (R)
+3 Moderately Resistant- Moderately susceptible (MRMS
+4 Moderately Susceptible (MS)
+5 Susceptible (S)
